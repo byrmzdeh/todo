@@ -1,0 +1,25 @@
+body{
+    .container{
+        border: 1px solid rgb(115, 115, 115) ;
+        width: 660px;
+        border-radius: 5px;
+     
+        .enter{
+            border: none;
+            color: rgb(213, 217, 224);
+        }
+        .todo{
+                ol{
+                    padding-left: 0;
+                    li{
+                        a{
+                            margin-left: 430px;
+                        }
+                    }
+                }
+            
+
+     
+        }
+    }
+}

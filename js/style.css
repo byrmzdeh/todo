@@ -1,0 +1,15 @@
+body .container {
+  border: 1px solid rgb(115, 115, 115);
+  width: 660px;
+  border-radius: 5px;
+}
+body .container .enter {
+  border: none;
+  color: rgb(213, 217, 224);
+}
+body .container .todo ol {
+  padding-left: 0;
+}
+body .container .todo ol li a {
+  margin-left: 430px;
+}/*# sourceMappingURL=style.css.map */
